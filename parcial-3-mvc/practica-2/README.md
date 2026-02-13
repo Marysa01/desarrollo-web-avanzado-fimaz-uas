@@ -1,1 +1,1 @@
-Práctica 1 - Parcial 3
+Práctica 2 - Parcial 3
