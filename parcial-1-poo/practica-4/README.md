@@ -29,3 +29,5 @@ Al ejecutar el sistema se debe mostrar:
 * Cada usuario debe mostrar su nombre, correo y rol correspondiente.
 * En las columnas que no aplican (matrícula o empresa) se muestra el símbolo "—".
 * Cuando se intenta crear un usuario con un correo inválido, el sistema muestra un mensaje de error controlado utilizando manejo de excepciones.
+
+Actualización para commit de clases
