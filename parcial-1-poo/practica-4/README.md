@@ -30,4 +30,4 @@ Al ejecutar el sistema se debe mostrar:
 * En las columnas que no aplican (matrícula o empresa) se muestra el símbolo "—".
 * Cuando se intenta crear un usuario con un correo inválido, el sistema muestra un mensaje de error controlado utilizando manejo de excepciones.
 
-Actualización para commit de clases
+Actualización para commit de clasesgit 
